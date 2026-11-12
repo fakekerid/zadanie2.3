@@ -12,3 +12,4 @@
 12. Prośba: zaokrąglij rogi przycisku do 8 (MainWindow.axaml). Diff: 2 linie (+1 −1). Rozumiem: 2.
 13. Prośba: dodaj pole tekstowe z podpowiedzią (MainWindow.axaml). Diff: 1 linia (+1 −0). Rozumiem: 1.
 14. Prośba: ustaw szerokość pola tekstowego na 250 (MainWindow.axaml). Diff: 2 linie (+1 −1). Rozumiem: 2.
+15. Prośba: wyśrodkuj okno na ekranie przy starcie (MainWindow.axaml). Diff: 1 linia (+1 −0). Rozumiem: 1.
