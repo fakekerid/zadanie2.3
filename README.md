@@ -8,3 +8,4 @@
 8. Prośba: opakuj zawartość okna w pionowy StackPanel (MainWindow.axaml). Diff: 4 linie (+3 −1). Rozumiem: 4.
 9. Prośba: dodaj podtytuł „Edycja druga z agentem” (MainWindow.axaml). Diff: 1 linia (+1 −0). Rozumiem: 1.
 10. Prośba: dodaj przycisk „Kliknij mnie” (MainWindow.axaml). Diff: 1 linia (+1 −0). Rozumiem: 1.
+11. Prośba: ustaw odstęp 15 między elementami w StackPanelu (MainWindow.axaml). Diff: 2 linie (+1 −1). Rozumiem: 2.
