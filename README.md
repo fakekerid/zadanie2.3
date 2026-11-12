@@ -1,15 +1,15 @@
-1. Prośba: zastąp napis w oknie wyśrodkowanym napisem „Warsztat” (MainWindow.axaml). Diff: 2 linie (+1 −1). Rozumiem: 2.
-2. Prośba: zmień tytuł okna na „Warsztat” (MainWindow.axaml). Diff: 2 linie (+1 −1). Rozumiem: 2.
-3. Prośba: ustaw kremowe tło okna (MainWindow.axaml). Diff: 3 linie (+2 −1). Rozumiem: 3.
-4. Prośba: ustaw wymiary okna na 500 na 400 (MainWindow.axaml). Diff: 1 linia (+1 −0). Rozumiem: 1.
-5. Prośba: zwiększ czcionkę napisu do 28 (MainWindow.axaml). Diff: 2 linie (+1 −1). Rozumiem: 2.
-6. Prośba: pogrub napis Warsztat (MainWindow.axaml). Diff: 2 linie (+1 −1). Rozumiem: 2.
-7. Prośba: zmień kolor czcionki napisu na ciemnobrązowy (MainWindow.axaml). Diff: 2 linie (+1 −1). Rozumiem: 2.
-8. Prośba: opakuj zawartość okna w pionowy StackPanel (MainWindow.axaml). Diff: 4 linie (+3 −1). Rozumiem: 4.
-9. Prośba: dodaj podtytuł „Edycja druga z agentem” (MainWindow.axaml). Diff: 1 linia (+1 −0). Rozumiem: 1.
-10. Prośba: dodaj przycisk „Kliknij mnie” (MainWindow.axaml). Diff: 1 linia (+1 −0). Rozumiem: 1.
-11. Prośba: ustaw odstęp 15 między elementami w StackPanelu (MainWindow.axaml). Diff: 2 linie (+1 −1). Rozumiem: 2.
-12. Prośba: zaokrąglij rogi przycisku do 8 (MainWindow.axaml). Diff: 2 linie (+1 −1). Rozumiem: 2.
-13. Prośba: dodaj pole tekstowe z podpowiedzią (MainWindow.axaml). Diff: 1 linia (+1 −0). Rozumiem: 1.
-14. Prośba: ustaw szerokość pola tekstowego na 250 (MainWindow.axaml). Diff: 2 linie (+1 −1). Rozumiem: 2.
-15. Prośba: wyśrodkuj okno na ekranie przy starcie (MainWindow.axaml). Diff: 1 linia (+1 −0). Rozumiem: 1.
+1.zastąp napis w oknie wyśrodkowanym napisem „Warsztat”. rozumiem 2
+2.zmień tytuł okna na „Warsztat”. Diff: 2 linie. rozumiem 2
+3.ustaw kremowe tło okna. rozumiem 3
+4.ustaw wymiary okna na 500 na 400. rozumiem 1
+5.zwiększ czcionkę napisu do 28. rozumiem 2
+6.pogrub napis Warsztat. rozumiem 2
+7.zmień kolor czcionki napisu na ciemnobrązowy. rozumiem 2
+8.ropakuj zawartość okna w pionowy StackPanel. rozumiem 4
+9.dodaj podtytuł „Edycja druga z agentem”. rozumiem 1
+10.dodaj przycisk „Kliknij mnie”. rozumiem 1
+11.ustaw odstęp 15 między elementami w StackPanelu. rozumiem 2
+12.zaokrąglij rogi przycisku do 8. rozumiem 2
+13.dodaj pole tekstowe z podpowiedzią. rozumiem 1
+14.ustaw szerokość pola tekstowego na 250. rozumiem 2
+15.wyśrodkuj okno na ekranie przy starcie. rozumiem 1
