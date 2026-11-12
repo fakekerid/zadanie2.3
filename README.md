@@ -5,3 +5,4 @@
 5. Prośba: zwiększ czcionkę napisu do 28 (MainWindow.axaml). Diff: 2 linie (+1 −1). Rozumiem: 2.
 6. Prośba: pogrub napis Warsztat (MainWindow.axaml). Diff: 2 linie (+1 −1). Rozumiem: 2.
 7. Prośba: zmień kolor czcionki napisu na ciemnobrązowy (MainWindow.axaml). Diff: 2 linie (+1 −1). Rozumiem: 2.
+8. Prośba: opakuj zawartość okna w pionowy StackPanel (MainWindow.axaml). Diff: 4 linie (+3 −1). Rozumiem: 4.
