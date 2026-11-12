@@ -10,3 +10,4 @@
 10. Prośba: dodaj przycisk „Kliknij mnie” (MainWindow.axaml). Diff: 1 linia (+1 −0). Rozumiem: 1.
 11. Prośba: ustaw odstęp 15 między elementami w StackPanelu (MainWindow.axaml). Diff: 2 linie (+1 −1). Rozumiem: 2.
 12. Prośba: zaokrąglij rogi przycisku do 8 (MainWindow.axaml). Diff: 2 linie (+1 −1). Rozumiem: 2.
+13. Prośba: dodaj pole tekstowe z podpowiedzią (MainWindow.axaml). Diff: 1 linia (+1 −0). Rozumiem: 1.

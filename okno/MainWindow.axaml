@@ -11,5 +11,6 @@
         <TextBlock Text="Warsztat" FontSize="28" FontWeight="Bold" Foreground="#3E2723" HorizontalAlignment="Center" />
         <TextBlock Text="Edycja druga z agentem" FontSize="14" Foreground="#5D4037" HorizontalAlignment="Center" />
         <Button Content="Kliknij mnie" CornerRadius="8" HorizontalAlignment="Center" />
+        <TextBox PlaceholderText="Wpisz notatkę..." HorizontalAlignment="Center" />
     </StackPanel>
 </Window>
