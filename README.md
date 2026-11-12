@@ -6,3 +6,4 @@
 6. Prośba: pogrub napis Warsztat (MainWindow.axaml). Diff: 2 linie (+1 −1). Rozumiem: 2.
 7. Prośba: zmień kolor czcionki napisu na ciemnobrązowy (MainWindow.axaml). Diff: 2 linie (+1 −1). Rozumiem: 2.
 8. Prośba: opakuj zawartość okna w pionowy StackPanel (MainWindow.axaml). Diff: 4 linie (+3 −1). Rozumiem: 4.
+9. Prośba: dodaj podtytuł „Edycja druga z agentem” (MainWindow.axaml). Diff: 1 linia (+1 −0). Rozumiem: 1.
